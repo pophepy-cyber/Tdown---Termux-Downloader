@@ -18,7 +18,7 @@
 - ✅ Custom Speed Limit
 - ✅ CLI - Light & Powerful
 
-### 🚀 Cara Install (Buat Temen Lu)
+### 🚀 Cara Install
 ```bash
 pkg install git -y
 git clone https://github.com/pophepy-cyber/Tdown---Termux-Downloader.git
@@ -26,7 +26,12 @@ cd Tdown---Termux-Downloader
 bash install.sh
 
 
-💻 Cara Pakai
+### 💻 Cara Pakai
+```bash
 tdown
-👑 Credits
-© 2026 Created by BC-Mrt
+
+###👑 Credits
+<p © 2026 Created by BC-Mrt></p>
+<p align="center">
+<b 💫 Kasih Star di repo ya Bos kuh! 💫</b>
+</p>
