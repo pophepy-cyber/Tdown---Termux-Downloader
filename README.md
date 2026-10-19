@@ -23,7 +23,7 @@
 pkg install git -y
 git clone https://github.com/pophepy-cyber/Tdown---Termux-Downloader.git
 cd Tdown---Termux-Downloader
-bash install.sh
+install.sh
 ```
 
 ### 💻 Cara Pakai
